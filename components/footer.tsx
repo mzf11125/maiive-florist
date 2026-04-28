@@ -94,6 +94,7 @@ export default function Footer() {
           <p>
             &copy; {currentYear} maiive.florist. All rights reserved. Handcrafted with care.
           </p>
+          <p className="mt-2 text-primary font-medium">Created by her future husband</p>
         </div>
       </div>
     </footer>
