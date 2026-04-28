@@ -70,14 +70,14 @@ export default function ContactPage() {
       <Header />
       <main className="min-h-screen bg-white">
         {/* Page Header */}
-        <section className="bg-gradient-to-r from-rose-50 to-pink-50 px-4 sm:px-6 lg:px-8 py-12">
+        {/* <section className="bg-gradient-to-r from-rose-50 to-pink-50 px-4 sm:px-6 lg:px-8 py-12">
           <div className="max-w-6xl mx-auto">
             <h1 className="text-5xl font-bold text-foreground mb-4">Get in Touch</h1>
             <p className="text-xl text-muted-foreground">
               Have questions? We&apos;d love to hear from you.
             </p>
           </div>
-        </section>
+        </section> */}
 
         {/* Contact Content */}
         <section className="px-4 sm:px-6 lg:px-8 py-16">
