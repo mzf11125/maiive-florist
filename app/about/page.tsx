@@ -53,7 +53,7 @@ export default function AboutPage() {
           <div className="max-w-6xl mx-auto">
             <h1 className="text-5xl font-bold text-foreground mb-4">About maiive.florist</h1>
             <p className="text-xl text-muted-foreground max-w-2xl">
-              Crafting beautiful moments, one bouquet at a time since 2018.
+              Crafting beautiful moments, one bouquet at a time since March, 2026.
             </p>
           </div>
         </section>
@@ -67,7 +67,7 @@ export default function AboutPage() {
                 maiive.florist was founded on a simple belief: flowers have the power to transform moments into memories. What started as a small florist shop has grown into a thriving floral design studio serving our community with passion and creativity.
               </p>
               <p>
-                Our founder, Sofia Martinez, started arranging flowers as a hobby while working in corporate finance. But her passion for floral design soon became undeniable. In 2018, she took the leap and opened maiive.florist, combining her eye for beauty with her business acumen.
+                Our founder, Sofia Martinez, started arranging flowers as a hobby while working in corporate finance. But her passion for floral design soon became undeniable. In March 2026, she took the leap and opened maiive.florist, combining her eye for beauty with her business acumen.
               </p>
               <p>
                 Today, we pride ourselves on creating stunning arrangements that celebrate life&apos;s important moments. Whether it&apos;s a romantic anniversary, a joyful celebration, or a gesture of sympathy, our team is dedicated to crafting bouquets that convey your emotions beautifully.
